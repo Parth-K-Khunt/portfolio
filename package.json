@@ -1,6 +1,6 @@
 {
-  "homepage": "https://lmate.site",
   "name": "portfolio",
+  "homepage": "https://lmate.site",
   "private": true,
   "version": "0.0.0",
   "type": "module",
